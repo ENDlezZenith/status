@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
     "slug": "official-website",
     "status": "down",
-    "uptime": "2.92%",
-    "uptimeDay": "2.92%",
-    "uptimeWeek": "2.92%",
-    "uptimeMonth": "2.92%",
-    "uptimeYear": "2.92%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   },
   {
@@ -44,26 +44,6 @@
     "url": "http://endzz.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
     "slug": "media-system",
-    "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-10-20": 0
-    }
-  },
-  {
-    "name": "Counter-Strike Server",
-    "url": "http://endzz.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
-    "slug": "counter-strike-server",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -76,7 +56,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
+    }
+  },
+  {
+    "name": "Counter-Strike Server",
+    "url": "http://endzz.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
+    "slug": "counter-strike-server",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-10-20": 4
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
     "slug": "remote-management",
     "status": "down",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/endzz.eu.org.ico",
     "slug": "ddns-management",
     "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   },
   {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   },
   {
@@ -156,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 4
     }
   }
 ]
