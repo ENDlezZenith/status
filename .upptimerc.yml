@@ -1,6 +1,6 @@
 # Change these first
 owner: ENDlezZenith # Your GitHub organization or username, where this repository lives
-repo: Status # The name of this repository
+repo: status # The name of this repository
 
 sites:
   # - name: Official Website
@@ -40,14 +40,14 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /Status
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ENDlezZenith Dashboard
   introTitle: ENDzZ Server Status Page
   introMessage: Welcome to ENDzZ Server.
   navbar:
     - title: Status
-      href: /Status
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
