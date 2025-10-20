@@ -1,6 +1,6 @@
 # [📈 Live Status](https://ENDlezZenith.github.io/status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Xudong Zhou](https://ENDlezZenith.github.io/status), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [ENDlezZenith](https://ENDlezZenith.github.io/status), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ENDlezZenith/status/workflows/Uptime%20CI/badge.svg)](https://github.com/ENDlezZenith/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ENDlezZenith/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ENDlezZenith/status/actions?query=workflow%3A%22Response+Time+CI%22)
