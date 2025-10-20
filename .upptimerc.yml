@@ -4,35 +4,35 @@ repo: Status # The name of this repository
 
 sites:
   - name: Official Website
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8443
     check: "tcp-ping"
   - name: Cloud Storage
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8444
     check: "tcp-ping"
   - name: Media System
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8445
     check: "tcp-ping"
   - name: Counter-Strike Server
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8446
     check: "tcp-ping"
   - name: Remote Management
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8447
     check: "tcp-ping"
   - name: DDNS Management
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 8448
     check: "tcp-ping"
   - name: Minecraft Server
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 25565
     check: "tcp-ping"
   - name: Minecraft Map
-    url: http://endzz.eu.org
+    url: endzz.eu.org
     port: 25575
     check: "tcp-ping"
     
