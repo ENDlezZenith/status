@@ -47,9 +47,9 @@ status-website:
   introMessage: Welcome to ENDzZ Server.
   navbar:
     - title: Status
-      href: /status
+      href: /status/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/ENDlezZenith/status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
