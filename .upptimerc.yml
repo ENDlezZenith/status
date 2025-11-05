@@ -3,10 +3,10 @@ owner: ENDlezZenith # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  # - name: 8443
-  #   url: endzz.eu.org
-  #   port: 8443
-  #   check: "tcp-ping"
+  - name: Homepage
+    url: endzz.eu.org
+    port: 8443
+    check: "tcp-ping"
   - name: Cloud Disk
     url: endzz.eu.org
     port: 8444
@@ -15,18 +15,10 @@ sites:
     url: endzz.eu.org
     port: 8445
     check: "tcp-ping"
-  # - name: 8446
-  #   url: endzz.eu.org
-  #   port: 8446
-  #   check: "tcp-ping"
-  - name: PDU Management
+  - name: Prometheus
     url: endzz.eu.org
-    port: 8447
+    port: 8446
     check: "tcp-ping"
-  - name: DDNS Management
-    url: endzz.eu.org
-    port: 8448
-    check: "tcp-ping" 
   # - name: Minecraft Server
   #   url: endzz.eu.org
   #   port: 25565
