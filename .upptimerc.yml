@@ -4,18 +4,22 @@ repo: status
 sites:
   - name: IIS
     url: endzz.eu.org
+    icon: https://www.microsoft.com/favicon.ico
     port: 8443
     check: "tcp-ping"
   - name: Cloud Disk
     url: endzz.eu.org
+    icon: https://doc.oplist.org/favicon.svg
     port: 8444
     check: "tcp-ping"
   - name: Multimedia System
     url: endzz.eu.org
+    icon: https://jellyfin.org/images/favicon.ico
     port: 8445
     check: "tcp-ping"
   - name: Prometheus
     url: endzz.eu.org
+    icon: https://prometheus.io/icon.svg
     port: 8446
     check: "tcp-ping"
   # - name: Minecraft Server
@@ -33,6 +37,7 @@ status-website:
   name: ENDlezZenith Dashboard
   introTitle: ENDzZ Server Status Page
   introMessage: Check the status for all self-hosted services here.
+  favicon: https://raw.githubusercontent.com/ENDlezZenith/status/gh-pages/ENDZZ-Flanger.png
   navbar:
     - title: Status
       href: /
