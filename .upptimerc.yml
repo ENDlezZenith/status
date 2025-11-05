@@ -33,11 +33,11 @@ sites:
 
 status-website:
   cname: status.endzz.eu.org
-  logoUrl: https://raw.githubusercontent.com/ENDlezZenith/status/gh-pages/ENDZZ-Flanger.png
+  logoUrl: https://raw.githubusercontent.com/ENDlezZenith/status/master/assets/ENDZZ-Flanger.png
   name: ENDlezZenith Dashboard
   introTitle: ENDzZ Server Status Page
   introMessage: Check the status for all self-hosted services here.
-  favicon: https://raw.githubusercontent.com/ENDlezZenith/status/gh-pages/ENDZZ-Flanger.png
+  favicon: https://raw.githubusercontent.com/ENDlezZenith/status/master/assets/ENDZZ-Flanger.png
   navbar:
     - title: Status
       href: /
