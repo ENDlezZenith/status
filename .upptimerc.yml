@@ -22,20 +22,12 @@ sites:
     icon: https://prometheus.io/icon.svg
     port: 8446
     check: "tcp-ping"
-  # - name: Minecraft Server
-  #   url: endzz.eu.org
-  #   port: 25565
-  #   check: "tcp-ping"
-  # - name: Minecraft Map
-  #   url: endzz.eu.org
-  #   port: 25575
-  #   check: "tcp-ping"
 
 status-website:
   cname: status.endzz.eu.org
   logoUrl: https://raw.githubusercontent.com/ENDlezZenith/status/master/assets/Favicon.png
-  name: ENDzZ Dashboard
-  introTitle: ENDzZ Server Status Page
+  name: ENDzZ's Dashboard
+  introTitle: Status
   introMessage: Check the status for all self-hosted services here.
   favicon: https://raw.githubusercontent.com/ENDlezZenith/status/master/assets/Favicon.png
   navbar:
